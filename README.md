@@ -13,6 +13,7 @@
       ▪️ Ruby on Rails
       ▪️ PostgresSQL
       ▪️ Javascript
+      ▪️ React
       ▪️ Css / Scss
       ▪️ HTML
       ▪️ Trello
