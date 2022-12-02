@@ -18,5 +18,9 @@
       ▪️ HTML
       ▪️ Trello
       ▪️ Figma
+      ▪️ Starting with React
+      
+      
+     [![GitHub Streak](https://streak-stats.demolab.com/sofilarreaDenverCoder1)](https://git.io/streak-stats)
       
       
