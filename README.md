@@ -21,6 +21,6 @@
       ▪️ Starting with React
       
       
-     [![GitHub Streak](https://streak-stats.demolab.com/sofilarreaDenverCoder1)](https://git.io/streak-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sofilarrea=anuraghazra&show_icons=true&theme=radical)
       
       
