@@ -21,6 +21,6 @@
       ▪️ Starting with React
       
       
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sofilarrea=anuraghazra&show_icons=true&theme=radical)
-      
-      
+   
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofilarrea&show_icons=true&theme=transparent)
+     
